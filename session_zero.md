@@ -433,7 +433,7 @@ What options, in the setting or in the game, do players have for resurrecting fa
 ### **Death Rules**
 DMs if you have game mechanic rules for when PCs die, discuss them here. What about Massive Damage rules; does it outright kill you? A common rule seems to be Death Exhaustion: When a character regains 1hp from after being dropped to 0hp, that character gains one level of exhaustion.
 
-**Up to Table Vote.**
+~~**Up to Table Vote.**~~ (Decided as of [session one](session_one.md), massive damage *does* outright kill you, and death exhaustion *is* in use, but capped at 3 levels and reset to 0 with a long rest.)
 
 ### **Resting Rules**
 DMs if you have rules for rest mechanics discuss them here. A common rule seems to be only 2 short rest before a long rest. Another common is that a Long Rest always starts with a Short rest. Perhaps you do not gain full health on a long rest? How to tackle rest-abuse, where character take long rests unnaturally often?
