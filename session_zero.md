@@ -1,3 +1,5 @@
+[⏎ index](index.md)
+
 # D&D session zero checklist
 This checklist is a compilation of topics, that could be relevant to discuss before starting a new D&D game. Many of the topics apply to other RPGs as well. The list can be used by a DM that has already prepared a plot and setting, to align the players with what to expect. The list can also be used BEFORE the DM prepares anything, as a way of aligning the game experience more openly, with the players having more say in the game style.
 

@@ -1,3 +1,5 @@
+[⏎ index](index.md)
+
 # Session 1 Notes
 
 2/24/2021 7PM EST
